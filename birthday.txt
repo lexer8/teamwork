@@ -8,3 +8,5 @@ New branch was created and it called "newbranch".
 Testing the rebase functionality
 
 Trying to understand, how to work in team.
+
+This information was added after changes in master branch.
