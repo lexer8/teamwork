@@ -5,6 +5,6 @@ Also, I hope all your dreams and birthday wishes will come true! ;-)
 
 New branch was created and it called "newbranch".
 
-TESTBRANCH! Achtung!
+Testing the rebase functionality
 
-CHANGING in master branch.
+Trying to understand, how to work in team.
