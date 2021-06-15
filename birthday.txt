@@ -12,3 +12,5 @@ Trying to understand, how to work in team.
 This information was added after changes in master branch.
 
 test abc
+
+branch: test
