@@ -12,3 +12,9 @@ Trying to understand, how to work in team.
 This information was added after changes in master branch.
 
 branch: master + test
+test abc
+
+branch: test
+test_commit_1
+test_commit_2
+test_commit_3
